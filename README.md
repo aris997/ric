@@ -25,6 +25,6 @@ gcc ric-diff.c -o ric-diff.exe
 ## FAQ
 
 1. _Do we need it?_ no.
-2. _Will it works as a replacement of git?_ Probably not.
+2. _Will it work as a replacement of git?_ Probably not.
 3. _Can I contribute to the project?_ YES! I need help and maybe a guide to learn how team working.
 4. _Can I ask you a question?_ Of course here -> [rr@riccardoriva.dev](mailto:rr@riccardoriva.dev)
