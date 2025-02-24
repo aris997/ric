@@ -2,3 +2,4 @@
 *.out
 .devcontainer
 .idea
+.venv
